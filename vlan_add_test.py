@@ -1,4 +1,4 @@
-#weird behaviour on python 3.9/osx: it adds vlan, but script fails before end with error 
+#just a test of a weird behaviour on python 3.9/osx: it adds vlan, but script fails before end with error 
 #AttributeError: 'xml.etree.ElementTree.Element' object has no attribute 'getchildren' somewhere in ucs-mdk. 
 #and it works without handle.login() - no idea, why :-\
 #needs an investigation.
